@@ -1,4 +1,3 @@
-<<<<<<<< HEAD:script.js
    // Get your shorts on - this is an array workout!
     // ## Array Cardio Day 1
 
@@ -101,17 +100,3 @@
     }, {});
 
     console.log(transportation);
-========
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Array Cardio 💪</title>
-  <link rel="icon" href="https://fav.farm/🔥" />
-</head>
-<body>
-  <p><em>Psst: have a look at the JavaScript Console</em> 💁</p>
-  <script src="script.js"></script>
-</body>
-</html>
->>>>>>>> origin/master:index-START.html
